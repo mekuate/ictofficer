@@ -1,3 +1,3 @@
 # Un Officer Informatique dans l'humanitaire
 ### Sommaire
-(Introduction)[intro/]
+[Introduction] (introduction.md)
