@@ -1,3 +1,3 @@
 # Un Officer Informatique dans l'humanitaire
-### Sommaire
-[Introduction](introduction.md)
+
+Ceci est un wiki concu pour rédiger les réalisations faites en tant qu'un Officier Informatique dans le secteur humanitaire. 
