@@ -1,8 +1,8 @@
-# Un Officer Informatique dans l'humanitaire
+# Un Officier Informatique dans l'humanitaire
 
-Ceci est un wiki concu pour rédiger les réalisations faites en tant qu'un Officier Informatique dans le secteur humanitaire. 
+Ce wiki présente dans son intégralité les activités d'un informaticien travaillant dans une organisation internationale humanitaire.
 
-[Introduction](https://github.com/mekuate/ictofficer/wiki/Introduction)
+1- [Introduction](https://github.com/mekuate/ictofficer/wiki/Introduction)
 
-[La connectivité](https://github.com/mekuate/ictofficer/wiki/La-Connectivit%C3%A9)
+2- [La connectivité](https://github.com/mekuate/ictofficer/wiki/La-Connectivit%C3%A9)
 
